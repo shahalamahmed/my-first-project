@@ -1,0 +1,40 @@
+.vv{
+    padding-left: 70px;
+    font-size: auto;
+}
+h3{
+    background-color: black;
+    color: aliceblue;
+    width: 1000px;
+    height: 10px;
+    font-size: large;
+    padding: 30px;
+}
+h2{
+    width: 1000px;
+    background-color: white;
+    width: 1000px;
+    
+    font-size: large;
+    padding: 30px;
+
+}
+.nd{
+padding-left: 300px;
+font-size:auto;
+}
+.id{
+    background-image: url('../student1.jpg ') ;
+    height: 650px;
+    width: 1000px;
+    background-size: 1000px;
+    color: white;
+    
+}
+input{
+    height: 30px;
+    background-color: antiquewhite;
+    margin-top: 250px;
+    width: 200px;
+    
+}
